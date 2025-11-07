@@ -213,7 +213,7 @@ class AutoTyperGUI:
     def check_hotkey_combination(self):
         # Using a set for combination check
         # For Mac: {Key.cmd, Key.shift, 'x'}
-        # For Win/Linux: {Key.ctrl, Key.shift, 'x'}
+    
         
         is_ctrl_pressed = Key.ctrl_l in self.current_keys or Key.ctrl_r in self.current_keys
         is_cmd_pressed = Key.cmd in self.current_keys
