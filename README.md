@@ -18,7 +18,7 @@ It lets you automatically type text into any app using **customizable global hot
 - ✅ **Adjustable Typing Speed** — Set delay between characters (0–200 ms).  
 - ✅ **Status Bar & Progress Indicator** — Displays typing progress.  
 - ✅ **Threaded Typing** — Keeps UI responsive while typing.  
-- ✅ **Cross-Platform Support** — macOS, Windows, and Linux compatible.
+
 
 ---
 
